@@ -1,5 +1,7 @@
 ##### [Blog Search API Documentation](https://documenter.getpostman.com/view/18873680/2s9YJgUg8W)
 
+[Problem Statement](https://github.com/Pathak1511/Blog-Analytics-Using-Lodash/blob/main/problemStatement.md)
+
 ##### Overview
 
 The Blog Search API allows you to search for blogs based on a query string. It provides a simple and efficient way to filter blogs from a remote source based on the provided search criteria.
